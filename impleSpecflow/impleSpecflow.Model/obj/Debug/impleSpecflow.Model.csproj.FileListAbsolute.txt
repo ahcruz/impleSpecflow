@@ -1,0 +1,6 @@
+C:\Users\paperspace\source\repos\impleSpecflow\impleSpecflow\impleSpecflow.Model\bin\Debug\impleSpecflow.Model.dll
+C:\Users\paperspace\source\repos\impleSpecflow\impleSpecflow\impleSpecflow.Model\bin\Debug\impleSpecflow.Model.pdb
+C:\Users\paperspace\source\repos\impleSpecflow\impleSpecflow\impleSpecflow.Model\obj\Debug\impleSpecflow.Model.csprojAssemblyReference.cache
+C:\Users\paperspace\source\repos\impleSpecflow\impleSpecflow\impleSpecflow.Model\obj\Debug\impleSpecflow.Model.csproj.CoreCompileInputs.cache
+C:\Users\paperspace\source\repos\impleSpecflow\impleSpecflow\impleSpecflow.Model\obj\Debug\impleSpecflow.Model.dll
+C:\Users\paperspace\source\repos\impleSpecflow\impleSpecflow\impleSpecflow.Model\obj\Debug\impleSpecflow.Model.pdb
